@@ -14,9 +14,9 @@ body {
 }
 
 .column  {
-  background-color: rgb(252, 252, 0);
+  background-color: white;
   color: blue;
-  border-color: rgb(252, 1, 1);
+  border-color: black;
   border-style: dashed;
   border-width: 1px;
   min-width: 256px;
