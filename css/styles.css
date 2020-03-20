@@ -1,13 +1,9 @@
 body {
   font-family: 'Courier New', Courier, monospace;
-  font-size: 125%;
 }
 .sidebar  {
   background-color: white;
-  color:#4B9E9C;
-  border-color:black;
-  border-style: dashed;
-  border-width: 1px;
+  color: black;
   width: 256px;
   padding: 20px;
   margin-right: 5px;
@@ -16,7 +12,6 @@ body {
 
 .column  {
   background-color: white;
-  color: blue;
   /*border-color: black;
   border-style: dashed;
   border-width: 1px;*/
@@ -35,11 +30,25 @@ body {
   background-color: yellow;
 }
 
-.tile img {
-  
+#title {
+  font-weight: 900;
+  font-size: 25px;
 }
 
-.tile * {
+#subtitle {
+  text-transform: capitalize;
   font-weight: bold;
+}
+
+#byline {
+
+}
+
+#aboutMeHead {
+font-weight: bold;
+text-transform: capitalize;
+}
+
+#aboutMeBody {
 
 }
