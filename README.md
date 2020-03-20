@@ -5,7 +5,7 @@
 To demonstrate proficiency in the material covered thus far in Epicodus' Ruby track. Also to serve as an evolving store of work completed in the course.
 
 ### **INSTRUCTIONS**
-This is a simple webpage, any old web browser should be able to handle it
+This is a simple webpage. Any old web browser should be able to handle it.
 
 ### **TECH USED**
 * HTML
