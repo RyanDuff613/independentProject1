@@ -4,7 +4,7 @@ body {
 .sidebar  {
   background-color: white;
   color:#4B9E9C;
-  border-color:white;
+  border-color:black;
   border-style: dashed;
   border-width: 1px;
   width: 256px;
@@ -19,15 +19,17 @@ body {
   border-color: black;
   border-style: dashed;
   border-width: 1px;
-  min-width: 256px;
-  max-width: 256px;
-  padding: 10px;
+  width: 256px;
   margin: 5px;
   text-align: center;
 }
 
 .tile {
-  width: 233px;
-  height: 233px;
-  background-color: red;
+  border-color:red;
+  border-style: dashed;
+  border-width: 1px;
+  width: 256px;
+  height: 256px;
+  margin-bottom: 10px;
+  background-color: yellow;
 }
