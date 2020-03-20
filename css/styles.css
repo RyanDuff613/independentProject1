@@ -1,8 +1,13 @@
-.row  {
-  background-color: beige;
+.sidebar  {
+  background-color: rgb(0, 252, 0);
   color: blue;
-  border-color: black;
+  border-color: rgb(7, 0, 0);
   border-style: dashed;
+  min-width: 200px;
+  max-width: 200px;
+  height: 100%;
+  padding: 10px;
+  margin: 10px;
 }
 
 .column  {
@@ -10,7 +15,13 @@
   color: blue;
   border-color: rgb(252, 1, 1);
   border-style: dashed;
+  min-width: 200px;
+  max-width: 8%;
+  
+  padding: 10px;
+  margin: 10px;
 }
+
 
 body {
   font-family: 'Courier New', Courier, monospace;
