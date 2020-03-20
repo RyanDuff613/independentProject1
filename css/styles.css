@@ -1,8 +1,17 @@
 .row  {
-    background-color: beige;
-    color: blue;
+  background-color: beige;
+  color: blue;
+  border-color: black;
+  border-style: dashed;
+}
+
+.column  {
+  background-color: rgb(252, 252, 0);
+  color: blue;
+  border-color: rgb(252, 1, 1);
+  border-style: dashed;
 }
 
 body {
-    font-family: 'Courier New', Courier, monospace;
+  font-family: 'Courier New', Courier, monospace;
 }
