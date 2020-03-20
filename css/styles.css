@@ -1,9 +1,6 @@
-.sidebar {
-
-}
-
-.column {
-
+.row  {
+    background-color: beige;
+    color: blue;
 }
 
 body {
