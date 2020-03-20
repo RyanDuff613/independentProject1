@@ -20,13 +20,14 @@ body {
   border-style: dashed;
   border-width: 1px;
   min-width: 256px;
-  max-width: 300px;
+  max-width: 256px;
   padding: 10px;
   margin: 5px;
   text-align: center;
 }
 
-.buffer {
-  background-color: brown;
-  margin: 10px;
+.tile {
+  width: 233px;
+  height: 233px;
+  background-color: red;
 }
