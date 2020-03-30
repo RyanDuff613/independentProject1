@@ -3,11 +3,12 @@ body {
 }
 .sidebar  {
   background-color: white;
-  color: #4B9E9C;
+  color: rgb(62, 129, 128);
   width: 256px;
   padding: 20px;
   margin-right: 5px;
   margin-top: 5px;
+  float: left;
 }
 
 ul, ol {
@@ -16,21 +17,16 @@ ul, ol {
 
 .column  {
   background-color: white;
-  /*border-color: black;
-  border-style: dashed;
-  border-width: 1px;*/
   width: 286px;
   margin: 5px;
 }
 
 .tile {
-  /*border-color:red;
-  border-style: dashed;
-  border-width: 1px;*/
   width: 256px;
   height: 256px;
   margin-bottom: 42px;
   background-color: yellow;
+  float: right;
 }
 
 #title {
